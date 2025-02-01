@@ -1,4 +1,6 @@
-# Food2Go Author: Xudong Jiang SYS--5013-2R1-SP-2024 - Systems Engineering Analysis
+# Food2Go 
+
+Author: Xudong Jiang SYS--5013-2R1-SP-2024 - Systems Engineering Analysis
 
 Food2Go is a **React Native** mobile application designed for food delivery services. This project allows users to browse restaurants, view menus, place orders, track orders, and provide feedback on their food delivery experience.
 

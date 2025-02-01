@@ -31,16 +31,3 @@ Food2Go is a **React Native** mobile application designed for food delivery serv
    ```sh
    npx expo start
    ```
-
-## Contributing
-Pull requests are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your changes.
-
-## License
-This project is licensed under the MIT License.
-
----
-
-### Contact
-For questions or support, feel free to reach out via GitHub Issues.
-
-Happy coding! 🚀
